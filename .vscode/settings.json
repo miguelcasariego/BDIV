@@ -6,6 +6,12 @@
             "driver": "SQLite",
             "name": "parazoo",
             "database": "${workspaceFolder:BDIV}/data/parazoo.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "moviebig",
+            "database": "${workspaceFolder:BDIV}/data/moviebig.db"
         }
     ]
 }
